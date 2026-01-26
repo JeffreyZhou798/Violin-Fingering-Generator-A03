@@ -1,0 +1,6 @@
+# Ignore these files/folders for Vercel deployment
+StringFingering/
+CompositionExamples/
+.vscode/
+TEST_RESULTS.md
+DEPLOYMENT_GUIDE.md
