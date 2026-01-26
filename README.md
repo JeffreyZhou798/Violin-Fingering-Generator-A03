@@ -1,4 +1,4 @@
-# 🎻 Violin Fingering Generator
+# 🎻 Violin Fingering Generator - Basic Edition 3.0
 
 An AI-powered violin fingering generation system using **complete Dyna-Q reinforcement learning algorithm**. Upload MusicXML files and get optimal fingering suggestions - **runs entirely in your browser!**
 
@@ -38,6 +38,10 @@ An AI-powered violin fingering generation system using **complete Dyna-Q reinfor
 - **💾 Smart Caching**: IndexedDB caching for instant results on repeated files
 - **🎨 Modern UI**: Clean, responsive interface built with Next.js and Tailwind CSS
 - **🆓 Free**: Zero cost deployment on Vercel
+
+## 🎵 Live Demo
+
+🎵 Live Demo：https://violin-fingering-generator-a03.vercel.app/
 
 ## 🌟 Star History
 
@@ -87,10 +91,6 @@ This implementation uses the **complete Dyna-Q algorithm**, combining model-base
 - Mobile devices: Automatically uses single-threaded mode for stability
 
 *First processing trains the model with parallel workers. Subsequent uploads of the same file use cached results.*
-
-### 🎵 Live Demo
-
-Try It Now: https://violin-fingering-generator-a01.vercel.app/
 
 ### 🚀 Quick Start
 
@@ -430,7 +430,7 @@ http://localhost:3000
 
 - **🚀 Main Application**: http://localhost:3000
 - **🧪 Test Page**: http://localhost:3000/test.html
-- **GitHub Repository**: https://github.com/JeffreyZhou798/Violin-Fingering-Generator-A01
+- **GitHub Repository**: https://github.com/JeffreyZhou798/Violin-Fingering-Generator-A03
 
 ## 🧪 Testing Instructions
 
@@ -472,4 +472,20 @@ This repository and its contents are protected by copyright law. No part of this
 **Last Updated**: January 24, 2026
 **Version**: 2.0.0 (Parallel Multi-threading)
 **Status**: ✅ **READY FOR TESTING** - Development server running at http://localhost:3000
+
+---
+
+GitHub Repository: https://github.com/JeffreyZhou798/Violin-Fingering-Generator-A03
+
+---
+
+## ⚠️ Copyright Notice
+
+© 2026 Jeffrey Zhou. All rights reserved.
+
+This repository and its contents are protected by copyright law. No part of this project may be copied, reproduced, modified, or distributed without prior written permission from the author.
+
+**Commercial use is strictly prohibited.**
+
+*Built with ❤️ for music education*
 
